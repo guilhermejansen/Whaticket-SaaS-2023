@@ -1,7 +1,10 @@
 # Whaticket SaaS Multi-Empresas com Auto-Instalador 🚀
-Whaticket SaaS - Visão Geral > https://youtu.be/zZvkGkX4OpU
-Whaticket SaaS - Auto Instalador > https://youtu.be/UnB4P484UfQ
-Whaticket SaaS - Código Fonte > https://youtu.be/u8iEhSW_SfE
+
+**Whaticket SaaS - Visão Geral > https://youtu.be/zZvkGkX4OpU
+
+**Whaticket SaaS - Auto Instalador > https://youtu.be/UnB4P484UfQ
+
+**Whaticket SaaS - Código Fonte > https://youtu.be/u8iEhSW_SfE
 
 ## 🇧🇷 Português
 
